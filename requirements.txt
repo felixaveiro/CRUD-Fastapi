@@ -1,5 +1,10 @@
 fastapi
 uvicorn
-SQLAlchemy
+sqlalchemy
 psycopg2-binary
 pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+email-validator
+alembic
